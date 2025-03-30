@@ -6,14 +6,14 @@ Here is a quick demo of the OCR in action:
 
 ![Demo](./src//assets/OCR_Demo.gif)
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
 ## Tech Used
 
 - This project works with latest React Native v0.78.1 & React v19.0.0
 - Tesseract OCR
 - Inspired by [react-native-tesseract-ocr](https://github.com/jonathanpalma/react-native-tesseract-ocr)
 - react-native-image-picker
+
+> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 # Getting Started
 
